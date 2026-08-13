@@ -1,7 +1,8 @@
 {
   "canonicalUrl": "https://about.daopox.com/",
   "designSourceSlug": "webflow",
-  "generatedAt": "2026-08-13T02:52:15.862Z",
+  "generatedAt": "2026-08-13T14:47:40.370Z",
+  "publicJsLoaderUrl": "https://kol-js.pages.dev/loader.js",
   "siteId": "site-daopox-com",
   "templateSlug": "personal-brand-builder-spectrum",
   "templateVersion": "0.1.0"
